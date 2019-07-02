@@ -1,1 +1,3 @@
-module github.com/jinzhu/inflection
+module github.com/neuronlabs/inflection
+
+go 1.12
